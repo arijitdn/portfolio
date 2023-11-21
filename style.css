@@ -409,6 +409,7 @@ article .icon {
 
 .contact-icon {
   cursor: default;
+  margin-right: 5px;
 }
 
 .email-icon {
